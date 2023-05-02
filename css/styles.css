@@ -51,7 +51,7 @@ img {
     padding: 5rem 0;
 }@media (min-width : 768px) {
     .header {
-        background-size: 45rem;
+        background-size: 50rem;
     }
 }
 @media (min-width : 992px) {
@@ -82,5 +82,27 @@ img {
 @media (min-width : 768px) {
     .header__logo {
         margin: 0;
+    }
+}
+
+/* navegacion */
+.navegacion {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+@media (min-width : 766px) {
+    .navegacion {
+        flex-direction: row;
+        align-items: flex-start;
+        gap: 2rem;
+    }
+}
+.navegacion__link {
+
+}
+@media (min-width : 768px) {
+    .navegacion__link {
+        color: var(--blanco);
     }
 }
