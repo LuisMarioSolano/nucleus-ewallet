@@ -1,5 +1,5 @@
-# nucleus-ewallet
-Nucleus E-Wallet | HTML CSS BEM
+# Nucleus E-Wallet | HTML CSS BEM
+
 
 This is the design of a Landing Page for Nucleus e-Wallet [click here](https://nucleus-ewalletweb.netlify.app/)
 
